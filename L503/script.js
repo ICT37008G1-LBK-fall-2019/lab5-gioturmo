@@ -11,3 +11,4 @@ for (var i = 0; i < table.rows.length; i++){
     }
 
 }
+
